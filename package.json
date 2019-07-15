@@ -1,0 +1,8 @@
+{
+  "bin": "index.js",
+  "name": "re-init",
+  "author": "Kiran PS",
+  "description": "reason app with no build configurations",
+  "version": "1.0.0",
+  "license": "UNLICENCED"
+}
