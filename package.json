@@ -1,5 +1,7 @@
 {
-  "bin": "index.js",
+  "bin": {
+    "init": "./index.js"
+  },
   "name": "re-init",
   "author": "Kiran PS",
   "description": "reason app with no build configurations",
