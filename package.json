@@ -1,10 +1,11 @@
 {
-  "bin": {
-    "init": "./index.js"
-  },
+  "bin": "./index.js",
   "name": "re-init",
   "author": "Kiran PS",
   "description": "reason app with no build configurations",
   "version": "1.0.0",
-  "license": "UNLICENCED"
+  "license": "UNLICENCED",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
 }
